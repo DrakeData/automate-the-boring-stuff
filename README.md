@@ -12,5 +12,5 @@ Examples from the book Automate The Boring Stuff With Python By Al Sweigart
 Automate The Boring Stuff With Python By Al Sweigart
 
 
-### Fold Description
+### Folder Description
 Chapter1
