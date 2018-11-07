@@ -1,6 +1,6 @@
-###Date created
-Project created: 11/06/2018
-README.md created: 11/06/2018
+### Date created
+- Project created: 11/06/2018
+- README.md created: 11/06/2018
 
 ### Project Title
 automate-the-boring-stuff
