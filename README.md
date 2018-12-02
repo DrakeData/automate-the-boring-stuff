@@ -13,4 +13,8 @@ Automate The Boring Stuff With Python By Al Sweigart
 
 
 ### Folder Description
-Chapter1
+Chapter 1:
+Python Basics
+
+Chapter 2:
+For/While loops
