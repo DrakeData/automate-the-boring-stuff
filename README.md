@@ -18,3 +18,6 @@ Python Basics
 
 Chapter 2:
 For/While loops
+
+Chapter 3:
+Functions
